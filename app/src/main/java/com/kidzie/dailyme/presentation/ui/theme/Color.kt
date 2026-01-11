@@ -1,4 +1,4 @@
-package com.kidzie.dailyme.ui.theme
+package com.kidzie.dailyme.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
